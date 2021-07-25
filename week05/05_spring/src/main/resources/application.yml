@@ -1,0 +1,21 @@
+student:
+  id: 1
+  name: xsj
+  isopen: true
+klass:
+  students:
+    - id: 11
+      name: xu
+    - id: 12
+      name: sj
+school:
+  student100:
+    id: 12
+    name: xsj2
+    isopen: true
+  class1:
+    students:
+      - id: 13
+        name: xu3
+      - id: 123
+        name: sj3
